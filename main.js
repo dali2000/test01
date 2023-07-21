@@ -8,6 +8,11 @@ const data = {
     age: 23,
 }
 
+const object = {
+    Date: new Date,
+    time:'20h'
+}
+
 //express fonction
 const app = express();
 
